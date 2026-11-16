@@ -1,9 +1,3 @@
-I'll structure this as a professional GitHub README that explains the project, business problem, dataset, methodology, models, hyperparameter tuning, evaluation results, findings, limitations and possible future improvements.
-
-Based on your results, **Linear Regression is your best-performing model**, with an RMSE of 9.7214 and an R² score of 0.7350.
-
-Here is your README, ready to use in your GitHub repository.
-
 # Student Exam Score Prediction Using Machine Learning
 
 ## Project Overview
